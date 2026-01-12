@@ -63,6 +63,10 @@ This repository includes a `gemini-extension.json` for integration. Install it u
 gemini extensions install https://github.com/swiftwasm/skills.git --consent
 ```
 
+### Cursor
+
+For Cursor, please refer to [Installing Skills from GitHub](https://cursor.com/docs/context/skills#installing-skills-from-github).
+
 ## Available Skills
 
 | Name | Description | Documentation |
