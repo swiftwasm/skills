@@ -1,0 +1,21 @@
+{
+  "name": "swiftwasm-skills",
+  "owner": {
+    "name": "SwiftWasm"
+  },
+  "metadata": {
+    "description": "Agent Skills for SwiftWasm ecosystem",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "javascriptkit",
+      "description": "Assist Swift developers who consume JavaScriptKit, a Swift library for interacting with JavaScript APIs via WebAssembly",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/javascriptkit"
+      ]
+    }
+  ]
+}

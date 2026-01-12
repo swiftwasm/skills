@@ -1,0 +1,6 @@
+{
+    "name": "swiftwasm-skills",
+    "description": "Provides access to the SwiftWasm Skills.",
+    "version": "0.0.1",
+    "contextFileName": "AGENTS.md"
+}
