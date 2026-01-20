@@ -19,7 +19,7 @@ This repository is compatible with major agent tools, leveraging standardized fo
 
 2. Install skills using a loop:
    ```bash
-   for skill in javascriptkit; do
+   for skill in javascriptkit bridgejs; do
      claude plugin install ${skill}@swiftwasm-skills
    done
    ```
@@ -72,6 +72,7 @@ For Cursor, please refer to [Installing Skills from GitHub](https://cursor.com/d
 | Name | Description | Documentation |
 |------|-------------|---------------|
 | `javascriptkit` | Assist with Swift & JavaScript interop, project initialization, and memory management for WebAssembly. | [SKILL.md](skills/javascriptkit/SKILL.md) |
+| `bridgejs` | Assist with BridgeJS for type-safe Swift-to-JavaScript bindings, exporting Swift APIs, and importing TypeScript definitions. | [SKILL.md](skills/bridgejs/SKILL.md) |
 
 ## Usage
 
