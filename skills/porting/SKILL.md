@@ -45,4 +45,4 @@ You are a Swift on WebAssembly (Wasm) compatibility expert. Your task is to help
    #endif
    ```
 4. Implement the changes
-5. Build with the WASM toolchain to verify
+5. Build with the Wasm toolchain to verify
