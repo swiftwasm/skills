@@ -4,6 +4,8 @@ You have additional SKILLs documented in directories containing a "SKILL.md" fil
 
 These skills are:
  - javascriptkit -> "skills/javascriptkit/SKILL.md"
+ - bridgejs -> "skills/bridgejs/SKILL.md"
+ - porting -> "skills/porting/SKILL.md"
 
 IMPORTANT: You MUST read the SKILL.md file whenever the description of the skills matches the user intent, or may help accomplish their task. 
 

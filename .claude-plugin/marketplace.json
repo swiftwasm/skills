@@ -16,6 +16,24 @@
       "skills": [
         "./skills/javascriptkit"
       ]
+    },
+    {
+      "name": "bridgejs",
+      "description": "Assist Swift developers using BridgeJS for Swift-to-JavaScript interoperability in WebAssembly projects",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/bridgejs"
+      ]
+    },
+    {
+      "name": "porting",
+      "description": "Check Swift on Wasm compatibility, identify incompatible frameworks, port and refactor code for WebAssembly",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/porting"
+      ]
     }
   ]
 }
