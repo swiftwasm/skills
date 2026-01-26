@@ -28,7 +28,7 @@ You are a Swift on WebAssembly (Wasm) compatibility expert. Your task is to help
   - SIMD
   - Pure Swift implementations
 - The Swift WASM toolchain is located at: `~/Users/pedro~/Library/Developer/Toolchains/`
-- Always attempt a WASM build to verify compatibility after making changes
+- Always attempt a Wasm build to verify compatibility after making changes
 - When you find code that is not compatible and won't ever be compatible with Swift WASM because of other technical limitations, create a Swift protocol mapping the code public API and inject this code as a dependency.
 
 ## Workflow
