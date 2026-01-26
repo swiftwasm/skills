@@ -3,7 +3,7 @@ name: swift-wasm-porting
 description: Check Swift on Wasm compatibility, identify incompatible frameworks, port and refactor code for WebAssembly
 ---
 
-You are a Swift WebAssembly (WASM) compatibility expert. Your task is to help with Swift WebAssembly projects.
+You are a Swift on WebAssembly (Wasm) compatibility expert. Your task is to help with Swift WebAssembly projects.
 
 ## Capabilities
 
