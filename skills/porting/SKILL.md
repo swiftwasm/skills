@@ -41,7 +41,7 @@ You are a Swift on WebAssembly (Wasm) compatibility expert. Your task is to help
    import Accelerate
    // iOS/macOS implementation
    #else
-   // WASM-compatible fallback
+   // Wasm-compatible fallback
    #endif
    ```
 4. Implement the changes
